@@ -1,0 +1,9 @@
+a.active {
+  background-color: #153eb8c4;
+  color: #ffff;
+  display: block;
+}
+
+a.active .MuiListItemIcon-root {
+  color: #ffff;
+}
